@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Alex. I'm a front end developer based in the New York area. 👨🏻‍💻
 
 <!--
 **AlexanderLyon/AlexanderLyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
