@@ -1,4 +1,4 @@
-![Alex Lyon](https://github.com/AlexanderLyon/AlexanderLyon/blob/master/images/header.png?raw=true)
+![Alex Lyon](https://github.com/AlexanderLyon/AlexanderLyon/blob/master/images/header_dark.png?raw=true)
 
 <!--
 **AlexanderLyon/AlexanderLyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
